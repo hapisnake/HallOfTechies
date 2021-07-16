@@ -43,6 +43,16 @@ const data = [
       "https://twitter.com/palashburad26",
     ],
   },
-];
-
+{
+    name: "GiriPrsath.D",
+    role: "Student",
+    image: "https://avatars.githubusercontent.com/u/68489853?v=4",
+    skills: ['html', 'python', 'java', 'matlab'],
+    link: [
+      "https://github.com/hapisnake",
+      "https://www.linkedin.com/in/giri-prasath-d-907b5b19a/",
+      "https://twitter.com/GIRIPRASATHD1,
+    ],
+  }
+]
 export default data;
